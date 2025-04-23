@@ -1,0 +1,12 @@
+inpro-reseau-social/
+├── index.html              ← Page d'accueil avec navigation
+├── fil_actualite.html      ← Fil d’actualité
+├── profil_utilisateur.html ← Profil de l'utilisateur
+├── creer_post.html         ← Création de post
+├── messages.html           ← Messages
+├── css/
+│   └── style.css           ← (optionnel, design commun)
+├── js/
+│   └── script.js           ← (optionnel, fonctions communes)
+└── images/
+    └── (icônes/logo/avatars...)
